@@ -22,12 +22,6 @@ The datasets were merged to increase the sample size and improve model accuracy.
 - **Model Training**: Implementing regression models to predict nutrition density.
 - **Evaluation**: Assessing model performance using standard metrics.
 
-## 📂 Project Structure
-- `Nutrition density.ipynb`: The main Jupyter Notebook containing the code for data processing and modeling.
-- `CRP Final.docx`: Detailed project report.
-- `CRP Presentation.pptx`: Project presentation slides.
-- `Ethics Form.docx`: Documentation regarding the ethical considerations of the study.
-
 ## 🛠️ Installation & Usage
 1. **Clone the repository**:
    ```bash
